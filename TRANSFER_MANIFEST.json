@@ -1,0 +1,1052 @@
+{
+  "version": "0.2.31",
+  "validated_animation_sheets": [
+    "ratRunDown6",
+    "ratRunRight6",
+    "ratRunUp6",
+    "ratRunLeft6",
+    "ratBiteDown",
+    "ratBiteRight",
+    "ratBiteUp",
+    "ratBiteLeft",
+    "crossbowDown6",
+    "crossbowRight6",
+    "crossbowUp6",
+    "crossbowLeft6",
+    "crossbowReloadDown6",
+    "crossbowReloadRight6",
+    "crossbowReloadUp6",
+    "crossbowReloadLeft6",
+    "zombieDown6",
+    "zombieRight6",
+    "zombieUp6",
+    "zombieLeft6"
+  ],
+  "files": [
+    {
+      "path": "requirements.txt",
+      "bytes": 30,
+      "sha256": "55e1532f7ec0e9d039944e890e2bf8d9161755ff3fb8fc30e0bc2a1ff5861a79"
+    },
+    {
+      "path": "VERSIONING.md",
+      "bytes": 867,
+      "sha256": "73a3166276824aa9bee125357809b54be4e941b3e0aa8e89d9d2a888b54acfcf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5377130,
+      "sha256": "ebc3cafada765af462c983530893e725e1e0e29b88929c47b728d8f4a959c148"
+    },
+    {
+      "path": "TRANSFER_README.md",
+      "bytes": 3637,
+      "sha256": "9c286fa6c945334fa8d46e9c50b7695396786772d3b080061e9e137a0cf38221"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 83,
+      "sha256": "1c6e04b191cfd0eaa1f197a2bad6671f7a585caf41d11b1993b053ac91ee3301"
+    },
+    {
+      "path": "tools/test_attack_sprites.py",
+      "bytes": 1509,
+      "sha256": "9e472a488bc0ff55c6f22f2ed31f657554005cdf6bbbaab39b975f973adf4b5c"
+    },
+    {
+      "path": "tools/test_rat_runs.py",
+      "bytes": 1993,
+      "sha256": "68a0ca0fcb13cc91af2bcaf26476e2d4792d5f9b3ebbbe1b422c05d01c4c5700"
+    },
+    {
+      "path": "tools/cleanup_latest.json",
+      "bytes": 86361,
+      "sha256": "35c695682e69c6d1b406a1ddfd34ca7f836157714bb7860f78113fa3a8dab0d3"
+    },
+    {
+      "path": "tools/cleanup_manifest.json",
+      "bytes": 13383,
+      "sha256": "c4a016e2d2493ce6c5f1a8527f29c4769556cd3a38f9d8de7f596b670f4ca3da"
+    },
+    {
+      "path": "tools/cleanup_0.2.31.json",
+      "bytes": 345,
+      "sha256": "f2d9d9d2f066385c99f719acdc2000f5b9fe45afa3e7c8ac3a6e9dce05e6e0c7"
+    },
+    {
+      "path": "tools/recover_embedded_sprites.py",
+      "bytes": 509,
+      "sha256": "a63ce9b0a7852af4c557232292e1041f5c3e06e6ccca1ecba0d751fa11bea11e"
+    },
+    {
+      "path": "tools/cleanup_crossbow.json",
+      "bytes": 764,
+      "sha256": "7bad9e96746545b55e8c0987860ed6137f72d1d6404450b57bbb501d4a7692f8"
+    },
+    {
+      "path": "tools/embed_rat_runs.py",
+      "bytes": 669,
+      "sha256": "b93e527d9bf4856797410bf2adf77c8abe352d215b2b2d226e0bb9c0e04cda71"
+    },
+    {
+      "path": "tools/shot_spot.py",
+      "bytes": 1363,
+      "sha256": "fe002dd165fcd6c45aa89fd3e88ae58fec805c48418da23f037915dd092986b6"
+    },
+    {
+      "path": "tools/test_enemy_grid.py",
+      "bytes": 1395,
+      "sha256": "aa8b993a84f0ba53d9af5a1740777a8f7777ea1589acdd31342d14a92b610312"
+    },
+    {
+      "path": "tools/gamedev_agent_prompt.md",
+      "bytes": 9974,
+      "sha256": "fa44e8e14016afd67c529ef40cd6d2adc42a3489a91a9a0e9ac4cfab76c2be2d"
+    },
+    {
+      "path": "tools/test_melee.py",
+      "bytes": 2231,
+      "sha256": "b174f12181726ddfc84cde51370a2095ac2096e56632736e5531a27ae00f89f9"
+    },
+    {
+      "path": "tools/retro_filter.py",
+      "bytes": 7890,
+      "sha256": "8f177bad9781376543d509535690336e6e0f1ac7a825548e201a44c844ac59d8"
+    },
+    {
+      "path": "tools/transfer_cleanup.json",
+      "bytes": 14000,
+      "sha256": "e8b7887f9925724a04a504d7c23a462d3ebe20693d045a04f016c3fd7757af23"
+    },
+    {
+      "path": "tools/cleanup_0.2.25.json",
+      "bytes": 1360,
+      "sha256": "8f8a29eabb0feb7d18f7042eaadc62d23f03c3c2ba872884a4c85976a0ebc3a8"
+    },
+    {
+      "path": "tools/test_health.py",
+      "bytes": 2334,
+      "sha256": "60edfdf6952f06422d2e23363bb118b8e1308f7dd65453c888d4e076922d60f3"
+    },
+    {
+      "path": "tools/shot_wall.py",
+      "bytes": 1656,
+      "sha256": "683ce2bffbe5188d5d9719b98ef1c2776ce7d9728d766939e246b8b95989c86f"
+    },
+    {
+      "path": "tools/cleanup_0.2.29.json",
+      "bytes": 246,
+      "sha256": "045847bba26a123c9a662fe4aa3c27684d7cfea39755997fc7c3b576243df3fb"
+    },
+    {
+      "path": "tools/version_history.json",
+      "bytes": 6278,
+      "sha256": "40cc97327d2786135f0286f6c71382f911053d94b091253ccdef6bab678bdd8d"
+    },
+    {
+      "path": "heroes/assets/crossbow_reload_up.png",
+      "bytes": 1153665,
+      "sha256": "9e566b14f4e35d9bedd987652ad22701f1eeef40a46a68ba698339f9457a4f63"
+    },
+    {
+      "path": "heroes/assets/crossbow_skeleton_down.png",
+      "bytes": 1098160,
+      "sha256": "47871b28890fd5695edfbc548efaaa6de48411a61a6f0f9a9cfb0a1f4d29d7ca"
+    },
+    {
+      "path": "heroes/assets/zombie_butcher_right.png",
+      "bytes": 1329137,
+      "sha256": "7a85a2d29f37533962086a5594dc65729a704578b1dd9fa6f1ab64d9589dc3d2"
+    },
+    {
+      "path": "heroes/assets/crossbow_reload_right.png",
+      "bytes": 1262114,
+      "sha256": "3b47ac81338cb385462725b4cd7354630da85f22d47b071c22d90f015175d76f"
+    },
+    {
+      "path": "heroes/assets/crossbow_skeleton_right.png",
+      "bytes": 1267144,
+      "sha256": "ae4971ab8242e27aadf16580eb8a9ae88de65f8999c0bf8035f82f3bbdca57fc"
+    },
+    {
+      "path": "heroes/assets/crossbow_reload_down.png",
+      "bytes": 1083172,
+      "sha256": "39d28ea93795351f7015746cd88f8b6f3c72614ca3a95da4dd77b2865485d9b1"
+    },
+    {
+      "path": "heroes/assets/rat_remains_source.png",
+      "bytes": 1312455,
+      "sha256": "07a3e36c6fc5ffa4e9606b6c48f5da1c9777a1810f4d91401150b64020981125"
+    },
+    {
+      "path": "heroes/assets/crossbow_skeleton_up.png",
+      "bytes": 1300248,
+      "sha256": "3d04c15cefcfc58cb2e690efdff57f8af5f5087f0b56ce63c15a976223db667b"
+    },
+    {
+      "path": "heroes/assets/rat_run_down_source.png",
+      "bytes": 937844,
+      "sha256": "d826e73eb86c8f9015b37b8a45050f7c9b9285093b578b597ffbb8bae7a139e2"
+    },
+    {
+      "path": "heroes/assets/rat_run_up_source.png",
+      "bytes": 1383414,
+      "sha256": "9f002d8542716c35a25534a45af71d4705c31615a2aa746e85b6f8cb9dd6fed9"
+    },
+    {
+      "path": "heroes/assets/zombie_butcher_concept.png",
+      "bytes": 5553206,
+      "sha256": "f66c1340baa28fcc2e0bcec086e67d3a07e28807f73d9c285338cbfee04c6cd8"
+    },
+    {
+      "path": "heroes/assets/rat_run_right_red_eyes.png",
+      "bytes": 1011849,
+      "sha256": "6c6f139faf2017620ba033676b6b0717c24fdb716b445fc98f19eb648ffa1135"
+    },
+    {
+      "path": "heroes/assets/zombie_butcher_down.png",
+      "bytes": 1409746,
+      "sha256": "5126ae47b6ca17b6b28edb36167caa9a88bdaa7136d7b26143400aeb44e6f33d"
+    },
+    {
+      "path": "heroes/assets/skeleton_remains_source.png",
+      "bytes": 1803131,
+      "sha256": "56fc13d7db95b6fc66f5db9b4c3b2b748fd0f7def6a029e78b9787db38a382c0"
+    },
+    {
+      "path": "heroes/assets/rat_run_right_source.png",
+      "bytes": 1698044,
+      "sha256": "d6c772927ed6b5b31243eb3b5eed1775f9f05f39d79011ac1681aae5895471af"
+    },
+    {
+      "path": "heroes/assets/zombie_butcher_up.png",
+      "bytes": 1345128,
+      "sha256": "791d407450f65c7c5874d22756d446bd6088360da039c4f55bd6d0054e37a7e3"
+    },
+    {
+      "path": "heroes/sprites/skel_frames.png",
+      "bytes": 730,
+      "sha256": "02f7e3d7bb67264d020c2085c4e7929689e495a595b14da5a3b4c4fd16560fa1"
+    },
+    {
+      "path": "heroes/sprites/prompts_warrior8.md",
+      "bytes": 9030,
+      "sha256": "bca92a0fe55ecc3c0d1de1aa9db245b33198c53b641323620d21d37b1b43d78b"
+    },
+    {
+      "path": "heroes/sprites/item_gold.png",
+      "bytes": 455,
+      "sha256": "2acc8404fff149a7a6dc0a649fcda0f3183c0c63589e0120ee5a636358bcbd8f"
+    },
+    {
+      "path": "heroes/sprites/make_run_left6.py",
+      "bytes": 741,
+      "sha256": "3c80b5d24a2ec08f1ef4b3a3e96d393785779a39182f808aa9b664d8c9a1d443"
+    },
+    {
+      "path": "heroes/sprites/item_heal1.png",
+      "bytes": 562,
+      "sha256": "618c3daa5aeeb6f8dca4c55c59a804bb1a279a476b64d91cd60bb48d90e2b52e"
+    },
+    {
+      "path": "heroes/sprites/item_scroll_32.png",
+      "bytes": 1166,
+      "sha256": "c4e8ad5d3a751ad5bcce95d85acf13bfffc351d1f78067096a7c3e1187a053f6"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_up_fx4.png",
+      "bytes": 914,
+      "sha256": "bad884462142f50491bde208dbd7ada5917bcfdc4a3767ff64d7638c82551c24"
+    },
+    {
+      "path": "heroes/sprites/rat_run_left6.png",
+      "bytes": 104354,
+      "sha256": "e7b36b48795ce5621d713eb91ee5c3d7f875c3bfc6ced425d722fcb646e3d8f7"
+    },
+    {
+      "path": "heroes/sprites/make_run_upleft6.py",
+      "bytes": 750,
+      "sha256": "4ca1bb238b585467bc54a9ad6bc53ce181513bdedee3b5c5621586d6a1207ca3"
+    },
+    {
+      "path": "heroes/sprites/rat_remove_fringe.py",
+      "bytes": 739,
+      "sha256": "002a5af7db0d46c9e6640d2cf01461fc4b933925e98e33b52f9f81e0db7d9bd8"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_down.png",
+      "bytes": 28450,
+      "sha256": "519438f05fafdcaf5ac71b82d679a5908a2c8977d85487bf6294e2fae5374c3f"
+    },
+    {
+      "path": "heroes/sprites/make_enemies32.py",
+      "bytes": 5815,
+      "sha256": "e20dbfa94791deaf5b62899004203ccb0c854749ad554a9d74ad5f528db93461"
+    },
+    {
+      "path": "heroes/sprites/key_dark_flask.py",
+      "bytes": 2806,
+      "sha256": "258b9111b08d9ef5a99407377c03e79017688208630ade6b5e7a1a5933af77c2"
+    },
+    {
+      "path": "heroes/sprites/make_rat_bite.py",
+      "bytes": 2105,
+      "sha256": "ae1fe5cc8ab263b6bdbd897813b148be45d0c80696967c9ae2f0aee6033c56d4"
+    },
+    {
+      "path": "heroes/sprites/zombie_butcher_down6.png",
+      "bytes": 163380,
+      "sha256": "57626318d12a41ad7bb41c40154765c756366722f480eb7f4cacd3c0565a1424"
+    },
+    {
+      "path": "heroes/sprites/crossbow_reload_right6.png",
+      "bytes": 121732,
+      "sha256": "86314eccd2125cbc0d6fad90232dce6b895df645edaf3217b32851934e5eea6f"
+    },
+    {
+      "path": "heroes/sprites/crossbow_reload_left6.png",
+      "bytes": 121394,
+      "sha256": "3ed524e7dabe955dae46a8ec7da2b9e63ae4e22cc0a73bc2ee16158c7a9a3e27"
+    },
+    {
+      "path": "heroes/sprites/make_enemies.py",
+      "bytes": 11350,
+      "sha256": "dd1f3967ff43b455e3beadefd8fa5a12d84f771faab1311b14dddd6006e780c1"
+    },
+    {
+      "path": "heroes/sprites/logo_rargratt_1x.png",
+      "bytes": 90787,
+      "sha256": "7238e8bec52eb55c6e789c2d5e7084229c19cd1579eb492ba8a99be5c937c67c"
+    },
+    {
+      "path": "heroes/sprites/item_dust.png",
+      "bytes": 638,
+      "sha256": "a7a67bfb3de142ab995d4a68512b9b886bfa67017669b06097a835d341d52ba7"
+    },
+    {
+      "path": "heroes/sprites/item_claymore.png",
+      "bytes": 588,
+      "sha256": "2657313e99e8325e18376052f5998a26a963e61381235a598bfcf4b4c2990495"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_left4.png",
+      "bytes": 23234,
+      "sha256": "358c111d3af7d2a1204e5291e73e76814d2e64c64cf4d97e0acabdaf6c3fa638"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_right.png",
+      "bytes": 34834,
+      "sha256": "5e3bd17468c994644d3f1e3586e327e90b312772bdac9957b58dca71eb07d553"
+    },
+    {
+      "path": "heroes/sprites/recolor_rat.py",
+      "bytes": 1596,
+      "sha256": "24322a1e54df7d6d7ca334cfe1588a4378366fdf59c528c91b2ff4a46e86e6ce"
+    },
+    {
+      "path": "heroes/sprites/cult_frames.png",
+      "bytes": 734,
+      "sha256": "fb9f06da89b78933b09525757cb5a39e15a1bcc786ba11f4846bffcc725f5661"
+    },
+    {
+      "path": "heroes/sprites/item_jacket_32.png",
+      "bytes": 1705,
+      "sha256": "b94078c8efaec8efef6b816468a9dab15e9037329a22d3df10f2fe3d91893a68"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_down_fx4.png",
+      "bytes": 1032,
+      "sha256": "58ff18d84a1bcebded89b35a43e86a9dfe79f591675c18d0d89c13f1a43cc6c5"
+    },
+    {
+      "path": "heroes/sprites/zombie_butcher_right6.png",
+      "bytes": 143694,
+      "sha256": "1927b477d1baebf62acb1bc58f47f46716aed9a2e10f21973a905a19295d95ac"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_left3.png",
+      "bytes": 186346,
+      "sha256": "e334d6868ecebbe9af2264a59e072137e12aca0e1e9ce43bb027bc3540283352"
+    },
+    {
+      "path": "heroes/sprites/_shot8.py",
+      "bytes": 2236,
+      "sha256": "f20f9de0f255d960183cca910fc7e4d588c825f9eb53c17943047466dd25ef88"
+    },
+    {
+      "path": "heroes/sprites/make_run_right6.py",
+      "bytes": 4589,
+      "sha256": "a35e7ba843dadc1a9adeb648e9976fa41de612f16117e641a4aaa6d99c9d956e"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_right.png",
+      "bytes": 28949,
+      "sha256": "be8e34671cd159caacaa3e17873de9ee1c3f03f649e3a06e3a57681a35aa7eff"
+    },
+    {
+      "path": "heroes/sprites/item_scrollR_32.png",
+      "bytes": 1330,
+      "sha256": "f478e7b2ec369f822613a3bb5ff29ccf9cb159c8d5d76da662344828dd24be4c"
+    },
+    {
+      "path": "heroes/sprites/item_mold.png",
+      "bytes": 588,
+      "sha256": "653303bcf31aa684f72c8303c6142f270a24f666a109a95298c8294964a91d51"
+    },
+    {
+      "path": "heroes/sprites/rat_run_down.png",
+      "bytes": 228754,
+      "sha256": "47684134b593cf815136da67c9f20597d588310e06cd7b4f55716e2e47385557"
+    },
+    {
+      "path": "heroes/sprites/make_warrior8_preview.py",
+      "bytes": 1603,
+      "sha256": "8d9a0d8bb891157a79a52c20b2e24766d388ef669e328f7356cd4a25f49ce89f"
+    },
+    {
+      "path": "heroes/sprites/build_zombie_butcher.py",
+      "bytes": 1569,
+      "sha256": "5f0483d50307d0683afefe4e6e0d386b390e45b20bda56d4177638bac27d47d6"
+    },
+    {
+      "path": "heroes/sprites/item_eye.png",
+      "bytes": 615,
+      "sha256": "271c8451b0a3388d6bbe23045c44f5a2172d0ec84a40fbf0416f6e0b8d9e5b00"
+    },
+    {
+      "path": "heroes/sprites/item_skin_32.png",
+      "bytes": 1276,
+      "sha256": "8fe0300c617ba27d2e4463e22d53ea5a13a564d84d3a0e62f04164b2ef5dd4c5"
+    },
+    {
+      "path": "heroes/sprites/build_remains.py",
+      "bytes": 668,
+      "sha256": "d11898d2bc4a97f4b252706b689580cd49235419603d8958d1c61f709cfb9022"
+    },
+    {
+      "path": "heroes/sprites/item_cleaver_32.png",
+      "bytes": 1477,
+      "sha256": "c7774ee213b7f3577fe56d445fa471c51daa1162cb99e0609a8bddda88a3d673"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_right_fx4.png",
+      "bytes": 848,
+      "sha256": "e47fca49aa2eb2a69eace2e8ea02fafc27c3f10f373e5d4f143f64c642e4dc21"
+    },
+    {
+      "path": "heroes/sprites/make_run_down6.py",
+      "bytes": 4496,
+      "sha256": "9c3c762cbd8fa2e1b84b4f3dc333620ff4f844d5b840fd7c6ab15ceb4170904d"
+    },
+    {
+      "path": "heroes/sprites/item_gold_32.png",
+      "bytes": 1121,
+      "sha256": "d335d9380fb662d5005548d69109ead9b9843193044fc185e44dc7690b3711c8"
+    },
+    {
+      "path": "heroes/sprites/item_blood.png",
+      "bytes": 580,
+      "sha256": "960af0ce4b30aec50105688180348a9e009566e07a584710f877d1083a8d6915"
+    },
+    {
+      "path": "heroes/sprites/rat_frames32.png",
+      "bytes": 1536,
+      "sha256": "1299e4b3f2fabff70890f21fce00d9d6d3f34cb7d8466452e448f6a12e93c78d"
+    },
+    {
+      "path": "heroes/sprites/zombie_butcher_left6.png",
+      "bytes": 143319,
+      "sha256": "e2d1eba1ff150533a16fc5d4026b5eceae8f4b015cc0a04124463d8b5fe05256"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_up6.png",
+      "bytes": 49202,
+      "sha256": "7056fb25a0682e9dc0be95fd2c6a14d33b244e669b65e1d8010e2a737aa7108d"
+    },
+    {
+      "path": "heroes/sprites/make_logo.py",
+      "bytes": 8676,
+      "sha256": "6b8ef57a32bec48f38569f01f02f9764d801a27967e3cde80c5d942b9c10658c"
+    },
+    {
+      "path": "heroes/sprites/warrior_sprites.py",
+      "bytes": 1417,
+      "sha256": "dc2f35511f160bb5ffb1f974c2db5e258f0193f8382a75e077ab52759cae7974"
+    },
+    {
+      "path": "heroes/sprites/logo_rargratt_hi.png",
+      "bytes": 672767,
+      "sha256": "68b0e235d72a69dbe1ced3bc67f09a2100c5303939de1e83afe702d76772eefb"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_up.png",
+      "bytes": 30847,
+      "sha256": "eb76920ef908e071e3013f871cfd8f004825625368fff1f57ac80706d588becc"
+    },
+    {
+      "path": "heroes/sprites/HD_NOTES.md",
+      "bytes": 11681,
+      "sha256": "9310fe62889210f2f2258e3d8a4a127fd2271088d6259cfea13429c232c060b2"
+    },
+    {
+      "path": "heroes/sprites/item_jacket.png",
+      "bytes": 652,
+      "sha256": "a8fca4df8bf4a948dd0d95c303655fe186191155dfc7e42d9b5b18e5deedc643"
+    },
+    {
+      "path": "heroes/sprites/rat_run_right6.png",
+      "bytes": 104280,
+      "sha256": "a7ca427e2fd094bd048a7862be1c8cd81594c12409f99a876cb225194d4c9e6c"
+    },
+    {
+      "path": "heroes/sprites/key_glass_flask.py",
+      "bytes": 3917,
+      "sha256": "3b529a90ca64cc11704994ad736f92b67e812ad528634dbe2a7e02dfba29112f"
+    },
+    {
+      "path": "heroes/sprites/logo_rargratt_2x.png",
+      "bytes": 270026,
+      "sha256": "6774e52dd583ddd652c48d487191a31cf706832936b85b4f54cf021567febbee"
+    },
+    {
+      "path": "heroes/sprites/skel_frames32.png",
+      "bytes": 2213,
+      "sha256": "69588d8132b104c50a6b14ca54a4eeb61e7c0fe3734b4979320edfdedfc3671e"
+    },
+    {
+      "path": "heroes/sprites/item_moss.png",
+      "bytes": 660,
+      "sha256": "9061bfe4018b8f1ee62eb3efcb61207babfccff88e09e5b1627092385d714bc3"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_right6.png",
+      "bytes": 58080,
+      "sha256": "667423d252c4a79c0934b0e183e8dfbb9fb66dde269cc34d04fbea3b8b552f9e"
+    },
+    {
+      "path": "heroes/sprites/item_cleaver.png",
+      "bytes": 596,
+      "sha256": "da9e6170c7df75ffa38d7b538a306b3a23d732eba071cbcac3902be58c1d95f8"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_down6.png",
+      "bytes": 51563,
+      "sha256": "4338f25d0060711c5447fdd72c351672cd77ef626628827c7e7c0882e848f58e"
+    },
+    {
+      "path": "heroes/sprites/item_mold_32.png",
+      "bytes": 1342,
+      "sha256": "fddb70ce044ef565faf70b1c737b8f0d93661baf71ee145981f8fca4f794b379"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_down4.png",
+      "bytes": 40248,
+      "sha256": "0a6a945eff448d2168787bc34c4995d60686d751977ee444e7a71e2d454e4658"
+    },
+    {
+      "path": "heroes/sprites/make_rat_run_right6.py",
+      "bytes": 5088,
+      "sha256": "3a37157d36f85d37990b390df780951ae0004f0ee2d536cb63e789075a387a88"
+    },
+    {
+      "path": "heroes/sprites/item_heal1_32.png",
+      "bytes": 1228,
+      "sha256": "31f9044c0e85c60af968b7efff2ec1b19b6bcc1b1b48dcf06ab5fe9cef185a5d"
+    },
+    {
+      "path": "heroes/sprites/item_heal2.png",
+      "bytes": 552,
+      "sha256": "db5ba625fdd5b7d422e2bedd06b69ec91d08fbeea7f7a69ea4accc8ad682ace5"
+    },
+    {
+      "path": "heroes/sprites/rat_run_down6.png",
+      "bytes": 131103,
+      "sha256": "be53747837e5a923e165ff2184e9796982d9966463d6c2f2c41eec1c07317461"
+    },
+    {
+      "path": "heroes/sprites/warrior_frames.png",
+      "bytes": 4568,
+      "sha256": "9ecd2b2ffb7aaa793b93cfd9ceacfb9e90c10a51f2de5db5cb8417d97a62ce7b"
+    },
+    {
+      "path": "heroes/sprites/make_warrior8.py",
+      "bytes": 6733,
+      "sha256": "f63fd7f1dd2f8d494cebc3c187a9f6dfc3ef87a26a14ae896122e5a9f7e65d81"
+    },
+    {
+      "path": "heroes/sprites/make_warrior.py",
+      "bytes": 4672,
+      "sha256": "c1e8cc6661913bf3d4f0ff2034816436cce9c9e4499a33e58f6f00645b63b78e"
+    },
+    {
+      "path": "heroes/sprites/rat_frames.png",
+      "bytes": 562,
+      "sha256": "ff8aa5154bd7c364b8dc479d3ec8d4a8331335ebccf08fe3b2dfe3d13ba56708"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_left.png",
+      "bytes": 39495,
+      "sha256": "0f132cd6c5832c4a503994f886aac4814f9caa5c6e6943dac40462144e9d40d8"
+    },
+    {
+      "path": "heroes/sprites/item_poker.png",
+      "bytes": 558,
+      "sha256": "0771692322fa094591ca98feb5a37d8057d66db8ff9664f27432dc61b13227ef"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_upright6.png",
+      "bytes": 51822,
+      "sha256": "4a743b7f69c129696b59a5427269bc8f32514c06f8f5aad6412da6b3a262fe2f"
+    },
+    {
+      "path": "heroes/sprites/item_eye_32.png",
+      "bytes": 1500,
+      "sha256": "6d30fef39b66954d89075f3af36b5c9760873bcb899890302dd315490d58b3e8"
+    },
+    {
+      "path": "heroes/sprites/rat_run_up6.png",
+      "bytes": 85809,
+      "sha256": "9a01de32e9707ababcd356edaefb4a02535c8ea3b85ce945e8532eaaff8d4908"
+    },
+    {
+      "path": "heroes/sprites/zombie_butcher_up6.png",
+      "bytes": 154593,
+      "sha256": "ed26e94b0b32d8c218a7824b0e6c95a245f575dde9d8bd49e23aa1e6e55a7e25"
+    },
+    {
+      "path": "heroes/sprites/item_heal2_32.png",
+      "bytes": 1217,
+      "sha256": "6811155666955165f948ed54b4f4f16797f34f04215c6b141f9abe4b24340a7f"
+    },
+    {
+      "path": "heroes/sprites/crossbow_reload_up6.png",
+      "bytes": 132835,
+      "sha256": "65d3d6768918502da116853d21c6d02db2fd4d8e27ad3139bf1d7228bf5d8b14"
+    },
+    {
+      "path": "heroes/sprites/make_rat_run_down6.py",
+      "bytes": 5659,
+      "sha256": "f37df9da0a772139df53f917045aa5cb42350758be1f9e8545aa4fe6a3597c3d"
+    },
+    {
+      "path": "heroes/sprites/cult_frames32.png",
+      "bytes": 1843,
+      "sha256": "7d65ea5fd2011b53d2c8081fcd0e9acf2169dd037a403292cf019d79bef69fb8"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_back.png",
+      "bytes": 37480,
+      "sha256": "6882d3d1acc931c36510de5482efb51bff926c3c19da97e3f990ce4933835711"
+    },
+    {
+      "path": "heroes/sprites/item_rage.png",
+      "bytes": 547,
+      "sha256": "fb3845d0db1950dd3d4d7227edc3ac02294765075ca7f256845205f174c0565f"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_left6.png",
+      "bytes": 64222,
+      "sha256": "b669b94ce2e1fbc465db5e1c0d1a8c4997429f88d6bc077cc770edd76200fec3"
+    },
+    {
+      "path": "heroes/sprites/item_skin.png",
+      "bytes": 592,
+      "sha256": "754cc480abee811fd5c7443cac846c8aac7dfb625cac5a9acfb1aaa0ebc20f80"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_down6.png",
+      "bytes": 41313,
+      "sha256": "b1683f9dba469b84441789fcec01456e91773147d613a2c650001048aef716d6"
+    },
+    {
+      "path": "heroes/sprites/crossbow_palette.py",
+      "bytes": 371,
+      "sha256": "5c7bd424ae0e31c4fdba9f0fbcba92b76e1b21e1fa6093d86ce87d491269b790"
+    },
+    {
+      "path": "heroes/sprites/item_dust_32.png",
+      "bytes": 1312,
+      "sha256": "4817d21f32e697396b52ce08c2c54ed48e9fa19f687ac92dbc9125eb9d998d7e"
+    },
+    {
+      "path": "heroes/sprites/item_rage_32.png",
+      "bytes": 1214,
+      "sha256": "ecf1e0f2b48a7dd92946fdbb853099d36d50c96c28304648f8a8518a7dd6d89c"
+    },
+    {
+      "path": "heroes/sprites/make_items.py",
+      "bytes": 33315,
+      "sha256": "323e74fdfb1b338f9cce575f5bf4e7eb5a5f0b21614721ada013eb98276d06f4"
+    },
+    {
+      "path": "heroes/sprites/build_crossbow_reload.py",
+      "bytes": 2081,
+      "sha256": "b12525e993e6f0cbe0d6203587ccb82e2c0eef67ff4b51a3dd093c6cb9fc778d"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_left_fx4.png",
+      "bytes": 855,
+      "sha256": "4b41123c11d129f3274a4b9b58a8fb90addfb8fea121c006eec3913bf1124fea"
+    },
+    {
+      "path": "heroes/sprites/make_run_downleft6.py",
+      "bytes": 758,
+      "sha256": "2864a1606bed7517c79276290c6d1a2e08023330992364395c34e29b8bbabbc6"
+    },
+    {
+      "path": "heroes/sprites/item_poker_32.png",
+      "bytes": 1612,
+      "sha256": "f627639514b6de702c5a710e7e06d213dbdf4b1e45d2a6028b6423240a4e16f5"
+    },
+    {
+      "path": "heroes/sprites/rat_remains.png",
+      "bytes": 27736,
+      "sha256": "241f47ef4e8ab64146afda3f89650959531b3cd8b04f128fefd4850c29a4ebc4"
+    },
+    {
+      "path": "heroes/sprites/item_moss_32.png",
+      "bytes": 1402,
+      "sha256": "ef6d2581d12f4cfeaff657911cfa012a4c21efbb0c27295ac8d850a34bc1cfef"
+    },
+    {
+      "path": "heroes/sprites/item_blood_32.png",
+      "bytes": 1308,
+      "sha256": "9b5b44d194edf2f38186d1a2d243f4057db0d8dbc775b2b68e60ed149d1aaf95"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_downright6.png",
+      "bytes": 43346,
+      "sha256": "807498b9000d4b1b3e33da711af6d259c8e435a7a47858298d77d540705fb4a0"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_right3.png",
+      "bytes": 213164,
+      "sha256": "3949fbae32eac02227ddb973f611e76cd2c016be292e343cbc837a9f2612caca"
+    },
+    {
+      "path": "heroes/sprites/zombie_palette.py",
+      "bytes": 936,
+      "sha256": "81c6b8f880159c744f22a80cfc638a4a1f5a36a52f13bea9bad01e77e77dde5e"
+    },
+    {
+      "path": "heroes/sprites/item_scroll.png",
+      "bytes": 569,
+      "sha256": "3f7e2fe11d3a288208205e61bf55a2a1fc66ae33d5cbc1eda8ec1ad4d65379d7"
+    },
+    {
+      "path": "heroes/sprites/make_rat_run_up6.py",
+      "bytes": 7264,
+      "sha256": "5d5ceb8212e4906cbf2debe0f7a51c51c2faf35eb6d3bd1c8af43d848a94787c"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_left6.png",
+      "bytes": 56072,
+      "sha256": "f3354696d585df99552c58ee60128dfaa744c1d448d91cb8637543d73c41153c"
+    },
+    {
+      "path": "heroes/sprites/make_run_downright6.py",
+      "bytes": 4566,
+      "sha256": "109cb6d1b621e88d63c98768f63c20774f828ff607dab48acf94652a955715e5"
+    },
+    {
+      "path": "heroes/sprites/shoot_iso.py",
+      "bytes": 4178,
+      "sha256": "25f5e3b29c0e04fa494970d0e81fbf86872012a94eba2a34ef1e64f077e0aab7"
+    },
+    {
+      "path": "heroes/sprites/make_run_upright6.py",
+      "bytes": 5034,
+      "sha256": "ac3d1b8a86730448a8228fdf917931c813ebac1b9d4a0d940850f318dad6786f"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_up4.png",
+      "bytes": 24684,
+      "sha256": "8210ea03623aed80196acc94d3376db32b3e11c58d3a212cbd938f314dca34be"
+    },
+    {
+      "path": "heroes/sprites/warrior_frames8.png",
+      "bytes": 7793,
+      "sha256": "55546a03846c2510806234ac090cb673a1da483fe725b5a70ac1b80b813e6ae7"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_right6.png",
+      "bytes": 63972,
+      "sha256": "9f287d7f403c1c0d48cf9d8eb11290439860b4b13a9cb2c1cca80fd0da827bad"
+    },
+    {
+      "path": "heroes/sprites/item_cuirass_32.png",
+      "bytes": 1458,
+      "sha256": "c0ec43757f04dccfb06b5fe2b040d1297a9185ca5f92f6e49f290649b9958ae3"
+    },
+    {
+      "path": "heroes/sprites/_shot_game.py",
+      "bytes": 2130,
+      "sha256": "ffe3cd461d2f02de7323d71dcb067d03d4b61c7d71aeee9d18fac9b9fcd0ed94"
+    },
+    {
+      "path": "heroes/sprites/rat_bite_right4.png",
+      "bytes": 23318,
+      "sha256": "86476c897696460eb6d230ff50585b82ebcf34a2c9d59e996afa5a413d356aa2"
+    },
+    {
+      "path": "heroes/sprites/rat_rig_source.png",
+      "bytes": 132348,
+      "sha256": "465b658f26485b736dcfb0cfae4b5ff5e2ac543d15e3dbe828eea40f0ed9df88"
+    },
+    {
+      "path": "heroes/sprites/rat_run_right.png",
+      "bytes": 344666,
+      "sha256": "8781a503c583ea58dfee3e99e42688b371ffbf3f1785781e6f5a3f2059edec80"
+    },
+    {
+      "path": "heroes/sprites/rat_run_up.png",
+      "bytes": 369274,
+      "sha256": "622d9f6d705ad7b50623e84896bf6d8eeca723a8d79be3a7f3a18f1aa0c0c64b"
+    },
+    {
+      "path": "heroes/sprites/skeleton_remains.png",
+      "bytes": 58394,
+      "sha256": "86fde1c71766ebbd146129bd18c02fa542cd3bc3380a3755a5a48e36fc64c1ec"
+    },
+    {
+      "path": "heroes/sprites/make_props.py",
+      "bytes": 7312,
+      "sha256": "6db36c27b33c567f6bd9682eec621f961cde6d0453b681c731278be948c4ed2b"
+    },
+    {
+      "path": "heroes/sprites/prepare_rat_down.py",
+      "bytes": 1318,
+      "sha256": "597ae3c933511c588553d013ee39673687fd1d19bd608bf0e9d05830885faac6"
+    },
+    {
+      "path": "heroes/sprites/make_run_up6.py",
+      "bytes": 4729,
+      "sha256": "669840ae1b894980ac31690be56352b7695c1e6ccb9606965751304fc626abe1"
+    },
+    {
+      "path": "heroes/sprites/item_scrollR.png",
+      "bytes": 573,
+      "sha256": "70c574a5cb268b7c0e60810101262b767e28bea0626633261d39e574b60aa02a"
+    },
+    {
+      "path": "heroes/sprites/crossbow_reload_down6.png",
+      "bytes": 124899,
+      "sha256": "c5989c89d5142fafb61ad894bc04a88dad297e38a8304300c2e2d89e18c8b014"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_upleft6.png",
+      "bytes": 50736,
+      "sha256": "3acdb17165cc6e58057074de9fa9ba6b1da93a1782104435a6ba8c5a5ca7f38e"
+    },
+    {
+      "path": "heroes/sprites/crossbow_skeleton_up6.png",
+      "bytes": 56313,
+      "sha256": "1929e1f8bb92f3b2d886cbe0926b4b36dc4348d2e51a40dc6318e06556644d3e"
+    },
+    {
+      "path": "heroes/sprites/warrior_dir_front.png",
+      "bytes": 40774,
+      "sha256": "a7a1de93bc44b35c2c680805e30315a42948cbade4a9c42a6efaa18ddfb6f643"
+    },
+    {
+      "path": "heroes/sprites/prepare_rat_up.py",
+      "bytes": 1375,
+      "sha256": "e3e0708d44bc557f1e803aa55fa65a5b01e4c522b16a13707ccb44a668213af6"
+    },
+    {
+      "path": "heroes/sprites/warrior_run_downleft6.png",
+      "bytes": 42366,
+      "sha256": "82518ce63f9bbd6398916eaba7bbee4886900b927be9c8ad3f122328e9f44d6d"
+    },
+    {
+      "path": "heroes/sprites/make_rat_run_left6.py",
+      "bytes": 793,
+      "sha256": "4762d33684644596af72691b8c5b586b1fa66ad7080010d90c088eb44d569792"
+    },
+    {
+      "path": "heroes/sprites/glass_flask.py",
+      "bytes": 3864,
+      "sha256": "bb4292c61e3a318eca68c4ce30d4597e22fd45ef81a295859fdf3b19bfd9402e"
+    },
+    {
+      "path": "heroes/sprites/make_warrior8_hd.py",
+      "bytes": 7184,
+      "sha256": "15398383af0bec3a31c04781c19953df7f75aab6daa5ec1be6a0db491434ece2"
+    },
+    {
+      "path": "heroes/sprites/warrior_frames8_hd.png",
+      "bytes": 68342,
+      "sha256": "c77b5c831507d8b5fc7ced5d6d5d00e7e7115d1d07ed9205f0d44361b740c097"
+    },
+    {
+      "path": "heroes/sprites/item_cuirass.png",
+      "bytes": 593,
+      "sha256": "05c3eff6ae80556a4a4645c0cae4729dc45c60d25bbf1e008b2f9b0492c33a3d"
+    },
+    {
+      "path": "heroes/sprites/build_crossbow_skeleton.py",
+      "bytes": 2204,
+      "sha256": "c26fdd2e55c780bea79c06157aa3efeaa7c32cc46d197e9b820f90d1ee677b12"
+    },
+    {
+      "path": "heroes/sprites/make_warrior_dirs.py",
+      "bytes": 9846,
+      "sha256": "6c8d215f05c1574982c1a16a0cddb2e1bbb2487f4bf1bc8e1d01b16ef71d5e68"
+    },
+    {
+      "path": "heroes/sprites/item_claymore_32.png",
+      "bytes": 1329,
+      "sha256": "f50ad3a0e313c2aafe82931bf24f85131cdd7dfb9ae930d14e393cbf87ce9353"
+    },
+    {
+      "path": "heroes/sprites/rat_brown_originals/rat_run_left6.png",
+      "bytes": 116436,
+      "sha256": "757c1ca27f7b2b773b4a6b4da0e964a3d7e4b9faa5316a7871bc927be2787d4d"
+    },
+    {
+      "path": "heroes/sprites/rat_brown_originals/rat_run_right6.png",
+      "bytes": 116334,
+      "sha256": "06559a63443dd4bc71a867461c12d3cac7e5f77128119031b101d4129d85f621"
+    },
+    {
+      "path": "heroes/sprites/rat_brown_originals/rat_run_down6.png",
+      "bytes": 143569,
+      "sha256": "a1f903371c17561d8dcfb53bb442dd28aadaf1df88f09ccf75cd495c1208867f"
+    },
+    {
+      "path": "heroes/sprites/rat_brown_originals/rat_run_up6.png",
+      "bytes": 92733,
+      "sha256": "1527a78ffb614f1221aeeedde96fc0164f7e13ed029fc7baa15b61c68b3b66c6"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_downleft_hires.png",
+      "bytes": 1056655,
+      "sha256": "7a59110d3d840e7ab9ba887faddd40a4d2dfddade762aa0971ef0e11a98a364e"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_down_hires.png",
+      "bytes": 1084149,
+      "sha256": "df6d844333fbc06a834875f4a3624100578229b56cedc323ea8651b20901a263"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_upleft.png",
+      "bytes": 41342,
+      "sha256": "1d5ec6c65f45a1ed2359cfae1f7c6f61efc311aa2577d64fddb26b0f69086e43"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_downright_hires.png",
+      "bytes": 1058501,
+      "sha256": "eee3ed1d0ccee052f0cfddd43dc61572eff8c794db3c6ff5b846802a3a6dbc62"
+    },
+    {
+      "path": "heroes/sprites/attacks/attack_horizontal_preview.png",
+      "bytes": 74959,
+      "sha256": "e7bee48479b05ea33b630d592d1e65b5b9221429967c1dcf4049c3bf7f2dc707"
+    },
+    {
+      "path": "heroes/sprites/attacks/attack_down_preview.png",
+      "bytes": 122191,
+      "sha256": "0e8391715e2085b2cf14e5f5ea08ebaa344858d093d9c12d665a211b723cefce"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_left.png",
+      "bytes": 41485,
+      "sha256": "d956152398161ede00d2ac78b91a6d87247cfbf58eb75992dbece6b06535a7c5"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_right.png",
+      "bytes": 41207,
+      "sha256": "b11084de8eb79d27fcc052973adc4eea7db92451a27f23f56336d60ec86a2017"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attacks3.png",
+      "bytes": 129015,
+      "sha256": "de0128211624c7cb60c7cb3a3a1c6eeef8581079433efccabdcaa678160565c5"
+    },
+    {
+      "path": "heroes/sprites/attacks/in_game_attack.png",
+      "bytes": 1350950,
+      "sha256": "305d67a40fe94ec12ce229bbaa8717c58edb773e66ec64b24be85896d2b2d003"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_upright_hires.png",
+      "bytes": 950062,
+      "sha256": "c1996d522c4099633829cbb432318ce47abd7e70ec723a0da40e3d9482caf4fe"
+    },
+    {
+      "path": "heroes/sprites/attacks/attack_preview.png",
+      "bytes": 114788,
+      "sha256": "24d2c304f0bbdf75cc014328f816e125e10a6a4035eab1f4bb6df9d3247ba853"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attacks_horizontal.png",
+      "bytes": 81365,
+      "sha256": "3197c78fa43df278f653b209ada58830ac9a98af648fce5e3b24fa0ae5544bd7"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attacks8.png",
+      "bytes": 343698,
+      "sha256": "5c72f798941736e8e7f99194180d8b3f5574ae364c3391cf5a9efa5d96926dbb"
+    },
+    {
+      "path": "heroes/sprites/attacks/build_attacks.py",
+      "bytes": 2994,
+      "sha256": "82e10a1eaf75f4fb424ab3a65c9fd6ac7fac7ffe85fb1187e151bcb69d268852"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attacks5.png",
+      "bytes": 209853,
+      "sha256": "25e34d58ea1c4127c987caa25e851c89da42f9b941c36e6776f692a7c207fe97"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_up_hires.png",
+      "bytes": 1093887,
+      "sha256": "95c8e283409ebe8b64b17cb240ac471173ab1b34f798b7da410b5584922bb550"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_upright.png",
+      "bytes": 41091,
+      "sha256": "b7286f0e58108de7f5b1567cee065a4c66377071f050b89a37e376f7c72ed573"
+    },
+    {
+      "path": "heroes/sprites/attacks/sprites.json",
+      "bytes": 1508,
+      "sha256": "fd00c24d8544fc6482552413885c96402abaaef58c4e7af16caa00b84c311249"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_down.png",
+      "bytes": 48359,
+      "sha256": "1951d31a23ce85478428e63fa09299687af0c6d8d3cbf1fa3b5dc841d1663235"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_upleft_hires.png",
+      "bytes": 954069,
+      "sha256": "8b50933cf7e9c5eb4dd776f0626c3fdb84dabd239b768efd6834bc8db906f92a"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_downleft.png",
+      "bytes": 43174,
+      "sha256": "30610221d09e41774836c11c0bebed5efe24ef73271552c7843ea6bb9c550442"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_up.png",
+      "bytes": 47840,
+      "sha256": "4c9ad2f757c26effad28b14f63a2a87e43843424fbc90bd40c4db7d8c74aeb23"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_left_hires.png",
+      "bytes": 840306,
+      "sha256": "05c2137adac5c65d7991c50418502f34cf75b096461eaa2bd95b3944685140a4"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_downright.png",
+      "bytes": 43243,
+      "sha256": "3d9831af081e4e2c8448a3f8551bcaa41e2d9306492a3eb0ef6c2769d134014d"
+    },
+    {
+      "path": "heroes/sprites/attacks/warrior_attack_right_hires.png",
+      "bytes": 835845,
+      "sha256": "c147e4faced329ad95aef655cc463d09668d4b145d9c63e661e9eefcab153249"
+    }
+  ]
+}
